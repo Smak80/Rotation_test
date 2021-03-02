@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rotation_test</string>
+    <string name="btn1">Кнопка №1</string>
+    <string name="btn2">Кнопка №2</string>
+    <string name="btn3">Кнопка №3</string>
+    <string name="lastPressed">Последней была нажата кнопка №%d</string>
+</resources>
