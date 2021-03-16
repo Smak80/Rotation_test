@@ -7,6 +7,7 @@ import androidx.lifecycle.ViewModel
 class MainViewModel : ViewModel(){
 
     private val savedData = MutableLiveData<Int>()
+    var btnPressed = false
 
     var btnNumber: Int
         get() = savedData.value ?: 0
